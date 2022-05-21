@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raphael181
-- 👀 I’m interested in learning artificial intelligencce, machine learning and deep learning
+- 👀 I’m interested in artificial intelligencce, machine learning and deep learning
 - 🌱 I’m currently learning the language C and machine learning and artificial intelligence with python
 
 
